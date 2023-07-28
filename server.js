@@ -28,7 +28,7 @@ const { PORT } = process.env;
 // port
 const server = app.listen(PORT, (err) => {
   if (err) console.log(`${err}`);
-  else console.log("heloo from expres");
+  else console.log("Server starting...");
 });
 
 //requests
