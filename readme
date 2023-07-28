@@ -1,38 +1,55 @@
-This project is a Node.js backend API written in JavaScript using the Express framework. It provides a comprehensive REST API for managing a variety of business entities, including categories, brands, products, users, carts, coupons, reviews, orders, and favorites.
+Sure, here is the description for your GitHub project, edited and with markup language:
 
-The API is secured using JSON Web Tokens (JWTs). To authenticate, a user must provide a valid JWT in the HTTP header.
+**This Node.js backend API is written in JavaScript using the Express framework. It provides a comprehensive REST API for managing a variety of business entities, including categories, brands, products, users, carts, coupons, reviews, orders, and favorites.**
 
-The API is deployed on an AWS EC2 instance. To access it, you can use the following URL:
+**The API is secured using JSON Web Tokens (JWTs). To authenticate, a user must provide a valid JWT in the HTTP header.**
 
+**The API is deployed on an AWS EC2 instance. To access it, you can use the following URL:**
+
+```
 https://<your-ec2-instance-ip-address>:<port>/
-Here is the list of all the modules in this API:
+```
 
-Categories
-Brands
-Products
-Users
-Carts
-Coupons
-Reviews
-Orders
-Favorites
-The project uses the following libraries:
+**Here is the list of all the modules in this API:**
 
-Express
-Dotenv
-Mongoose
-Slugify
-Express-async-handler
-Express-validator
-Nodemon
-Multer
-UUID
-Sharp
-JSONWebToken
-Nodemailer
-Compression
-Cors
-Morgan
-JWT
-Crypto
-Bcrypt
+* **Categories**
+* **Brands**
+* **Products**
+* **Users**
+* **Carts**
+* **Coupons**
+* **Reviews**
+* **Orders**
+* **Favorites**
+
+**The project uses the following libraries:**
+
+* **Express**
+* **Dotenv**
+* **Mongoose**
+* **Slugify**
+* **Express-async-handler**
+* **Express-validator**
+* **Nodemon**
+* **Multer**
+* **UUID**
+* **Sharp**
+* **JSONWebToken**
+* **Nodemailer**
+* **Compression**
+* **Cors**
+* **Morgan**
+* **JWT**
+* **Crypto**
+* **Bcrypt**
+
+I hope this description is helpful. Please let me know if you have any other questions.
+
+Here are some examples of markup language that I used in the description:
+
+* **Bold** text is created by surrounding it with two asterisks (**).
+* **Italic** text is created by surrounding it with two underscores (_).
+* **Links** are created by surrounding the URL with angle brackets (< >) and adding the text to be displayed in parentheses. For example, this is a link to my website: https://www.google.com/.
+* **Images** are created by surrounding the URL with an exclamation point (!) and adding the alt text in parentheses. For example, this is an image of a cat: Cat: https://unsplash.com/s/photos/cute-cat.
+
+I hope this helps!
