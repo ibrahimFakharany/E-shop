@@ -22,8 +22,8 @@ http://16.171.132.148:8787/api/v1/
 
 ### For example 
 
-Method POST, END POINT http://16.171.132.148:8787/api/v1/categories to add new category
-Method GET, END POINT http://16.171.132.148:8787/api/v1/categories?page=1&limit=20&sold[lt]=30&sort=sold to list categories with specified critria
+* Method POST, END POINT http://16.171.132.148:8787/api/v1/categories to add new category
+* Method GET, END POINT http://16.171.132.148:8787/api/v1/categories?page=1&limit=20&sold[lt]=30&sort=sold to list categories with specified critria
 
 
 ## Here is the list of all the libraries that the project uses:
